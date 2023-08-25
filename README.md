@@ -7,3 +7,4 @@
 
 - **Hyper-Parameter Optimization** *için Grid Search kullandım.*
 
+- **Dil :** *Python*
